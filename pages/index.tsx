@@ -63,7 +63,7 @@ const Home: NextPage = () => {
                   Jelly3DropZ MINT
                 </Link>
 
-                <Link className={styles.heroCta} href="https://the-jelly-market.vercel.app/">
+                <Link className={styles.heroCta} href="https://www.thejellymarket.online/">
                   $Jelly Market
                 </Link>
 
